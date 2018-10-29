@@ -1,0 +1,198 @@
+* {
+	padding: 0;
+	margin: 0;
+    }
+#container{
+    width: 1000px;
+    min-height: 800px, auto;
+    background-color: white;
+    margin: 0px auto;
+}
+        #logo{
+            position: relative;
+            top: 1px;
+            left: 1px;
+            width: 100px;
+        }
+        #layer11{
+            margin: 0px;
+            height: 80px;
+        }
+        #layer12{
+            height: 50px;
+            background: radial-gradient(#4E80AB, #24669E);
+            padding: 15px;
+        }
+        #logo, #layer11 p{
+            display: inline-block;
+            vertical-align: top;
+        }
+        #layer11 p{
+            font-family: 'Muli', sans-serif;
+            font-size: 50px;
+            margin-top: 20px;
+        }
+            .bluetxt{
+                color: #0085E0;
+            }
+            .redtxt{
+                color: red;
+            }
+            .cyantxt{
+                color: #0F9DB3;
+            }
+        #layer12 p{
+            font-family: 'Muli', sans-serif;
+            font-size: 40px;
+            color: white;
+            
+            }
+    #layer2{
+        background: linear-gradient(rgb(240, 239, 239), white);
+        width: 1000px;
+        min-height: 700px;
+    }
+        #layer21, #layer22{
+            min-height: 700px;
+            vertical-align: top;
+            display: inline-block;
+
+        }
+        #layer21{
+            width: 220px;
+        }
+            #layer2111{
+                font-family: 'Montserrat', sans-serif;
+            }
+                .Question{
+                    margin-top: 20px;
+                    margin-left: 10px;
+                }
+                .Answer{
+                    margin-top: 10px;
+                    margin-left: 10px;
+                    font-size: 13px;
+                }
+            #layer2112{
+                margin-top: 20px;
+            }
+                #buttonblue, #buttonorange{
+                    width: 200px;
+                    margin-left: 10px;
+                    margin-top: 10px;
+                }
+                #buttonblue, #buttonorange, #buttoncyan{
+                    padding: 5px;
+                    border-radius: 5px;
+                    box-shadow: 1px 1px 10px black;
+                    color: white;
+                    font-size: 15px;
+                }
+                #buttonblue{
+                    background: linear-gradient(#6196C2, #2769A0);
+                }
+                #buttonorange{
+                    background: linear-gradient(#EBA649, #EF7200);
+                    margin-bottom: 25px;
+                }
+                .border{
+                    border-top: 0.5px solid rgb(53, 52, 52);
+                }
+            #imgad{
+                width: 200px;
+                margin-top: 20px;
+                margin-left:10px
+            }
+            .adinfo, #ninja, #buttoncyan{
+                position: relative;
+            }
+            .adinfo{
+                margin: 10px;
+                top: -270px;
+                color: white;
+                font-size: 20px;
+                text-align: center;
+                font-family: 'Montserrat', sans-serif;
+            }
+            #ninja{
+                width: 80px;
+                top: -300px;
+                padding: 20px;
+                margin-left: 45px;
+            }
+            #buttoncyan{
+                background: linear-gradient(#74CFDF, #00C1DF);
+                width: 160px;
+                top: -300px;
+                left: 30px
+            }
+        #layer22{
+            width: 750px;
+            font-size: 15px;
+            margin-left: 20px
+        }
+            #layer221{
+                display:inline-block;
+                width: 530px;
+            }
+                
+                #imghome{
+                    margin-top: 10px;
+                    width: 20px;
+                }
+            #phone{
+                width: 40px;
+                display:inline-block;
+                vertical-align: top;
+                margin-top: 10px;
+            }
+            #layer222{
+                width: 160px;
+                display:inline-block;
+                vertical-align: top;
+            }
+                .time, .intnumber{
+                    font-size: 12px;
+                    text-align: right;
+                }
+                .number{
+                    color: #00C1DF;
+                    font-size: 25px;
+                    text-align: right;
+                    font-weight: bold;
+                }
+                .intnumber{
+                    margin-bottom: 10px;
+                }
+
+                .cspic{
+                    width: 250px;
+                    margin: 20px 250px;
+                }
+                li{
+                    margin-left: 20px;
+                    margin-top: 10px;
+                }
+                #layer223 .bluetxt, #layer2241 .bluetxt{
+                    font-weight: bold;
+                    font-size: 20px;
+                    font-family: 'Montserrat', sans-serif;
+
+                }
+            #layer224{
+                margin-top: 30px;
+                border: 5px solid #0085E0;
+            }
+                .htmlpic{
+                    padding: 10px;
+                    width: 100px;
+                    display: inline-block;
+                }
+                #layer2241{
+                    padding: 10px;
+                    width: 590px;
+                    display: inline-block;
+                    vertical-align: top;
+                }
+
+                
